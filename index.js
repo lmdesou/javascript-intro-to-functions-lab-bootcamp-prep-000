@@ -20,3 +20,4 @@ function sayHiToGrandma(string) {
   }
 }
 
+logShout("mynae is lalita")
