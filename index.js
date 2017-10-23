@@ -25,6 +25,4 @@ function sayHiToGrandma(string) {
   console.log ("I can't hear you!")
   else (uppercase)
   console.log ("YES INDEED!")
-  else (mixedCase)
-  console.log ("I love you, too!")
 }
