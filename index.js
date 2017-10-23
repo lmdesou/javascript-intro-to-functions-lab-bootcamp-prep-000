@@ -22,7 +22,7 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string) {
   if (HELLO)
-  return ("YES INDEED!")
+  console.log ("YES INDEED!")
   else (hello)
   console.log ("I can\'t hear you!")
 }
